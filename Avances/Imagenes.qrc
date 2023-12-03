@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/Imagen.jpg</file>
+        <file>D:/Descargas/palneta alienigena.jpg</file>
+        <file>Imagenes/71Zk38XCpKSYKeBus.jpg</file>
+        <file>D:/Descargas/spriteMortyversionFinal (1).png</file>
+        <file>Imagenes/Pocket_Mortys-Super_Fan_Rick-side1-1.7.1 (1).png</file>
+        <file>Imagenes/Redimiension saltos (1).jpg</file>
+    </qresource>
+</RCC>
